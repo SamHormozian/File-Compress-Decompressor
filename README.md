@@ -13,6 +13,7 @@ This Project presents a robust implementation of the Huffman coding algorithm, r
 <h2>Environments Used </h2>
 
 - <b>Visual Studio Code</b>
+- <b>Edstem Lessons</b>
 
 <h2>Program walk-through:</h2>
 
