@@ -19,17 +19,12 @@ This Project presents a robust implementation of the Huffman coding algorithm, r
 <p align="center">
 Compress: <br/>
 ./compress <original_file> <compressed_file>
-
 <br />
 <br />
 Decompress:  <br/>
 ./uncompress <compressed_file> <uncompressed_file>
-
-
 <br />
 <br />
-Mark Tasks as complete: <br/>
-<img width="1196" alt="Screenshot 2023-07-16 at 1 18 01 AM" src="https://github.com/SamHormozian/To-Do-List/assets/107660997/726c8596-fe03-4ce7-be9a-1d90175aa91f">
 
 
 
