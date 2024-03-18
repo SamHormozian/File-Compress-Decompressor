@@ -25,6 +25,7 @@ Compress:
 
 <br />
 <br />
+<p align="center">
 Decompress:
  <br/>
 
